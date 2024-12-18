@@ -1,1 +1,1 @@
-Statistics related to the probability of non-payment of debt after the start of a credit recovery campaign, the total population with outstanding overdraft debt was analyzed.
+Estatística relacionado a probabilidade de não pagamento de dívida, após inicio de campanha de recuperação de crédito. Foi analisado população (total) que possui dívida em aberto de cheque especial.
